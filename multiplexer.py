@@ -1,6 +1,5 @@
 import numpy as np
 import u6
-from GUIBaseClasses import *
 
 d = u6.U6()
 input_pins = ['EIO0', 'EIO1','EIO2','EIO3']
